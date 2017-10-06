@@ -8,7 +8,7 @@ Name of Game: Haunted Woodland Adventure —A Text Adventure Game— https://git
 
 Brief Description of Game: This game will be a text-adventure game. Sorta like an RPG adventure through a very haunted forest. Choices made will influence the rest of the gameplay. I really wanted to make this game because I really like to play RPG based games. I love getting immersed into the story.
 
-Initial Thoughts On Game Structure: IDEAS: Going to be based on If and else statements. Buttons will have consequences and influence the rest of the story. Choices are important. I think that I will either use switch statements or if,else if , and else conditionals. Also, I will be experimenting with animations and see what I can do with them to make my game have a certain look, (btns: will fade in, possibly).
+Initial Thoughts On Game Structure: IDEAS: Going to be based on If and else statements. Buttons will have consequences and influence the rest of the story. Choices are important. I think that I will either use switch statements or if,else if , and else conditionals. Also, I will be experimenting with animations and see what I can do with them to make my game have a certain look, (btns: will fade in, possibly). Also, I might consider haveing the player/user having to type into an input box in order to trigger events while in the forest.
 
 CHALLENGES: Some challenges I think I will run into is limited time. I think with the limited time that it will hinder the actual story that I will have to come up with in order to make this text adventure rich in detail and also immersive to really succeed. I also think that I will try to use as much JS as I can just to practice, but in the range I feel comfortable.
 
