@@ -31,6 +31,12 @@ h1, h2, h3, h4, h5, h6{
   font-size: 30px;
 }
 
+img{
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
 .pimg1, .pimg2, .pimg3, .pimg4{
   position:relative;
   opacity:0.80;
