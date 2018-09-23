@@ -170,6 +170,10 @@ a{
 }
 /* end css for scroll button */
 
+div.hidden{
+  display: none;
+}
+
 /* responsiveness - Media Queries */
 @media(max-width:568px){
   .pimg1, .pimg2, .pimg3, .pimg4{

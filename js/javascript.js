@@ -1,4 +1,11 @@
+// unhide page
+$(document).ready(function () {
+    $('div.hidden').fadeIn(6000).removeClass('hidden');
+});
+// end hidden page fade in script
 
+
+// for scroll button
 $(document).ready(function(){
     $(window).scroll(function(){
         if ($(this).scrollTop() > 100) {
@@ -12,3 +19,5 @@ $(document).ready(function(){
         return false;
     });
 });
+// end scroll script
+
