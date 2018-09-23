@@ -126,6 +126,14 @@ a{
   letter-spacing: 5px;
 }
 
+a{
+  text-decoration: none;
+}
+
+#contact-info{
+  letter-spacing: 1.5em;
+}
+
 /* responsiveness - Media Queries */
 @media(max-width:568px){
   .pimg1, .pimg2, .pimg3, .pimg4{
@@ -146,5 +154,9 @@ a{
 
   #skills{
   font-size: 50px;
+  }
+
+  #contact-info{
+  letter-spacing: 0.7em;
   }
 }
