@@ -32,9 +32,9 @@ h1, h2, h3, h4, h5, h6{
 
 img{
   float: left;
-  padding: 5px;
-  margin: 5px;
-  border-radius: 20%;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 25%;
   box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.85);
 }
 
@@ -100,11 +100,16 @@ img{
 }
 
 a{
+  text-decoration: none;
   color: white;
   font-size:15px;
   letter-spacing:8px;
   text-transform:lowercase;
  }
+
+ a:hover{
+  color: #33C7F1
+}
 
 .ftext{
   position:absolute;
@@ -132,14 +137,6 @@ a{
   font-size: 100px;
   line-height: 1.5em;
   letter-spacing: 5px;
-}
-
-a{
-  text-decoration: none;
-}
-
-a:hover{
-  color: #33C7F1
 }
 
 #contact-info{
