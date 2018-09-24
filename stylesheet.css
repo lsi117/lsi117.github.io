@@ -111,6 +111,11 @@ a{
   color: #33C7F1
 }
 
+#professionalphoto{
+ width: 250px;
+ height: 250px;
+}
+
 .ftext{
   position:absolute;
   top:50%;
