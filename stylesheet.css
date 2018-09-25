@@ -231,7 +231,7 @@ div.hidden{
   }
 
   #professionalphoto{
-  filter: grayscale(80%);
-  width: auto;
+    width: 200px;
+    height: 200px;
   }
 }
